@@ -12,7 +12,7 @@ setup(name='pysrcds',
                   ' servers',
       author='Peter Rowlands',
       author_email='peter@pmrowla.com',
-      url='https://github.com/ADK-Rust-Oxide-Plugins/pysrcds',
+      url='https://github.com/pmrowla/pysrcds',
       packages=['srcds', 'srcds/events'],
       classifiers=[
           'Development Status :: 4 - Beta',
